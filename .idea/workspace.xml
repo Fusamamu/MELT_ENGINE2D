@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Melt" targetName="nfd" />
+      <config projectName="Melt" targetName="NightlyStart" />
+      <config projectName="Melt" targetName="ContinuousTest" />
+      <config projectName="Melt" targetName="NightlyMemoryCheck" />
+      <config projectName="Melt" targetName="ExperimentalTest" />
+      <config projectName="Melt" targetName="yaml-cpp-read" />
+      <config projectName="Melt" targetName="ExperimentalConfigure" />
+      <config projectName="Melt" targetName="yaml-cpp-sandbox" />
+      <config projectName="Melt" targetName="Melt" />
+      <config projectName="Melt" targetName="Experimental" />
+      <config projectName="Melt" targetName="ExperimentalStart" />
+      <config projectName="Melt" targetName="Nightly" />
+      <config projectName="Melt" targetName="NightlyBuild" />
+      <config projectName="Melt" targetName="ContinuousUpdate" />
+      <config projectName="Melt" targetName="NightlyTest" />
+      <config projectName="Melt" targetName="ContinuousBuild" />
+      <config projectName="Melt" targetName="ContinuousCoverage" />
+      <config projectName="Melt" targetName="NightlySubmit" />
+      <config projectName="Melt" targetName="NightlyMemCheck" />
+      <config projectName="Melt" targetName="ContinuousStart" />
+      <config projectName="Melt" targetName="NightlyConfigure" />
+      <config projectName="Melt" targetName="yaml-cpp" />
+      <config projectName="Melt" targetName="ContinuousConfigure" />
+      <config projectName="Melt" targetName="ExperimentalSubmit" />
+      <config projectName="Melt" targetName="yaml-cpp-parse" />
+      <config projectName="Melt" targetName="NightlyUpdate" />
+      <config projectName="Melt" targetName="ExperimentalCoverage" />
+      <config projectName="Melt" targetName="ExperimentalBuild" />
+      <config projectName="Melt" targetName="NightlyCoverage" />
+      <config projectName="Melt" targetName="ExperimentalMemCheck" />
+      <config projectName="Melt" targetName="Continuous" />
+      <config projectName="Melt" targetName="ExperimentalUpdate" />
+      <config projectName="Melt" targetName="ContinuousSubmit" />
+      <config projectName="Melt" targetName="ContinuousMemCheck" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad4ec411-5cce-487c-beb0-169da5a72189" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/MELT_ENGINE_V0.0.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Engine.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EntityComponent.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EntityInspector.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EntityManager.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EntitySystem.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InputManager.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SceneManager.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprite.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tile.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TileEditor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TileGrid.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TileSpriteSheetInfo.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utility.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-vendor.nativefiledialog-extended-Debug-24bf0ad5ff771772f635.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-vendor.nativefiledialog-extended.src-Debug-1f5dcd9678dcec108856.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-vendor.yaml-cpp-Debug-0a30ba4e1ab390eeed4c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-vendor.yaml-cpp.util-Debug-254f5f28118295add770.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Continuous-Debug-0eb48114860af6698705.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-ContinuousBuild-Debug-c88f2a113d6736264252.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-ContinuousConfigure-Debug-235d75588a3573c1173b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-ContinuousCoverage-Debug-ed5741451cdc06a18832.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-ContinuousMemCheck-Debug-2b2e64095788114066bf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-ContinuousStart-Debug-3cb8075cd9c70ff2e87a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-ContinuousSubmit-Debug-59184a1a8eb4ba1cce7b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-ContinuousTest-Debug-5b03d9f1465e0115d74d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-ContinuousUpdate-Debug-74a3767f90b6216ea6a1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Experimental-Debug-69b1a4d59c6a2b1a9a74.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-ExperimentalBuild-Debug-1111457d7c8ddce92216.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-ExperimentalConfigure-Debug-369e4f3ae1acc9a28cad.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-ExperimentalCoverage-Debug-308088a0a19fea576cb3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-ExperimentalMemCheck-Debug-240a74e65ca5d2d6e025.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-ExperimentalStart-Debug-367798a0a9a58b2c8a11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-ExperimentalSubmit-Debug-37c752e10b94baa43776.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-ExperimentalTest-Debug-774336bb7e1a7d556605.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-ExperimentalUpdate-Debug-ab3855e3e22fe5379a9c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Nightly-Debug-6612897d43ca0d3ecdea.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-NightlyBuild-Debug-0ec1e9ba390de7d92f4d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-NightlyConfigure-Debug-c3b31ae47fca4a710c5a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-NightlyCoverage-Debug-18e2855a4b045555d1d8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-NightlyMemCheck-Debug-2909fc79bd01a2fbba20.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-NightlyMemoryCheck-Debug-45273c98cc4f20658ff5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-NightlyStart-Debug-c86da460cc75856359b9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-NightlySubmit-Debug-bc7dab38b7a8dedbd6f6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-NightlyTest-Debug-cc6ca5db56a992debddc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-NightlyUpdate-Debug-55799f5c46d23c512785.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-6f619f6ed2b9cb9d1698.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Melt.dir/Engine.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Melt.dir/EntityComponent.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Melt.dir/EntityInspector.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Melt.dir/EntityManager.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Melt.dir/EntitySystem.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Melt.dir/InputManager.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Melt.dir/SceneManager.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Melt.dir/Sprite.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Melt.dir/Tile.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Melt.dir/TileEditor.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Melt.dir/TileGrid.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Melt.dir/TileSpriteSheetInfo.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Melt.dir/Utility.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Melt.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Melt.dir/vendor/imgui/imgui.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Melt.dir/vendor/imgui/imgui_demo.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Melt.dir/vendor/imgui/imgui_draw.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Melt.dir/vendor/imgui/imgui_impl_sdl2.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Melt.dir/vendor/imgui/imgui_impl_sdlrenderer2.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Melt.dir/vendor/imgui/imgui_tables.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Melt.dir/vendor/imgui/imgui_widgets.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/VerifyGlobs.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.verify_globs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Melt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/binary.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/contrib/graphbuilder.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/contrib/graphbuilderadapter.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/convert.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/depthguard.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/directives.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/emit.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/emitfromevents.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/emitter.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/emitterstate.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/emitterutils.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/exceptions.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/exp.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/memory.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/node.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/node_data.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/nodebuilder.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/nodeevents.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/null.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/ostream_wrapper.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/parse.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/parser.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/regex_yaml.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/scanner.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/scanscalar.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/scantag.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/scantoken.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/simplekey.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/singledocparser.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/stream.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/src/tag.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/CTestTestfile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/DartConfiguration.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/libyaml-cppd.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/util/CTestTestfile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/util/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/yaml-cpp-config-version.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/yaml-cpp-config.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-build/yaml-cpp.pc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-src" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/CMakeFiles/3.27.8/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/CMakeFiles/yaml-cpp-populate-complete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/CMakeFiles/yaml-cpp-populate.dir/Labels.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/CMakeFiles/yaml-cpp-populate.dir/Labels.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-configure" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-done" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-gitclone-lastrun.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-gitinfo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-install" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-mkdir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-patch-info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-update-info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/tmp/yaml-cpp-populate-cfgcmd.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/tmp/yaml-cpp-populate-gitclone.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/tmp/yaml-cpp-populate-gitupdate.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/tmp/yaml-cpp-populate-mkdirs.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/imgui.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/nativefiledialog-extended/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/nativefiledialog-extended/src/CMakeFiles/nfd.dir/nfd_cocoa.m.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/nativefiledialog-extended/src/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/nativefiledialog-extended/src/libnfd.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/binary.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/contrib/graphbuilder.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/contrib/graphbuilderadapter.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/convert.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/depthguard.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/directives.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/emit.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/emitfromevents.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/emitter.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/emitterstate.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/emitterutils.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/exceptions.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/exp.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/memory.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/node.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/node_data.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/nodebuilder.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/nodeevents.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/null.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/ostream_wrapper.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/parse.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/parser.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/regex_yaml.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/scanner.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/scanscalar.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/scantag.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/scantoken.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/simplekey.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/singledocparser.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/stream.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/tag.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/CTestTestfile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/DartConfiguration.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/libyaml-cppd.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/util/CTestTestfile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/util/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/yaml-cpp-config-version.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/yaml-cpp-config.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vendor/yaml-cpp/yaml-cpp.pc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/Engine.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/EntityComponent.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/EntityInspector.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/EntityManager.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/EntityRegistry.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/EntitySystem.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/InputManager.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/SceneManager.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/Sprite.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/Tile.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/TileEditor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/TileGrid.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/TileSpriteSheetInfo.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/Timer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/Utility.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/1_bit_dungeon_tilest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Animated-Tiles/Animated-Water-Tiles-Sheet(10-frames).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Animated-Tiles/Wall-Torch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Animated-Tiles/Waterfall/Waterfall-Bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Animated-Tiles/Waterfall/Waterfall-Middle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Animated-Tiles/Waterfall/Waterfall-Top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Ruins-Tilesheet-Omniclause(solid-background).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/blue/end/burning_end_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/blue/end/burning_end_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/blue/end/burning_end_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/blue/end/burning_end_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/blue/end/burning_end_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/blue/loops/burning_loop_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/blue/loops/burning_loop_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/blue/loops/burning_loop_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/blue/loops/burning_loop_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/blue/loops/burning_loop_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/blue/start/burning_start_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/blue/start/burning_start_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/blue/start/burning_start_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/blue/start/burning_start_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/blue/start/burning_start_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/green/end/burning_end_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/green/end/burning_end_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/green/end/burning_end_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/green/end/burning_end_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/green/end/burning_end_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/green/loops/burning_loop_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/green/loops/burning_loop_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/green/loops/burning_loop_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/green/loops/burning_loop_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/green/loops/burning_loop_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/green/start/burning_start_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/green/start/burning_start_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/green/start/burning_start_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/green/start/burning_start_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/green/start/burning_start_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/orange/end/burning_end_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/orange/end/burning_end_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/orange/end/burning_end_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/orange/end/burning_end_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/orange/end/burning_end_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/orange/loops/burning_loop_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/orange/loops/burning_loop_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/orange/loops/burning_loop_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/orange/loops/burning_loop_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/orange/loops/burning_loop_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/orange/start/burning_start_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/orange/start/burning_start_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/orange/start/burning_start_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/orange/start/burning_start_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/orange/start/burning_start_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/purple/end/burning_end_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/purple/end/burning_end_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/purple/end/burning_end_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/purple/end/burning_end_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/purple/end/burning_end_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/purple/loops/burning_loop_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/purple/loops/burning_loop_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/purple/loops/burning_loop_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/purple/loops/burning_loop_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/purple/loops/burning_loop_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/purple/start/burning_start_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/purple/start/burning_start_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/purple/start/burning_start_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/purple/start/burning_start_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/purple/start/burning_start_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/white/end/burning_end_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/white/end/burning_end_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/white/end/burning_end_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/white/end/burning_end_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/white/end/burning_end_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/white/loops/burning_loop_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/white/loops/burning_loop_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/white/loops/burning_loop_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/white/loops/burning_loop_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/white/loops/burning_loop_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/white/start/burning_start_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/white/start/burning_start_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/white/start/burning_start_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/white/start/burning_start_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fire/white/start/burning_start_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/monochrome_tilemap_packed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/savefiles/ProjectSettings.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/savefiles/SceneA.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/imgui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/nativefiledialog-extended" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/yaml-cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/imgui/backends/imgui_impl_sdl2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/imgui/backends/imgui_impl_sdl2.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/imgui/backends/imgui_impl_sdlrenderer2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/imgui/backends/imgui_impl_sdlrenderer2.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/imgui/docs/CHANGELOG.txt" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/imgui/docs/CHANGELOG.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/imgui/imstb_truetype.h" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/imgui/imstb_truetype.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="3.3" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2gMF07pCrznsmDFCMYracwJRshy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;CMake Application.Melt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/pengaki/Desktop/Game Engine/MELT_ENGINE_V0.0.1_CANNOT_GIT&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="CMake Application.Melt">
+    <configuration name="Continuous" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="Continuous" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousBuild" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="ContinuousBuild" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousConfigure" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="ContinuousConfigure" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousCoverage" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="ContinuousCoverage" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousMemCheck" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="ContinuousMemCheck" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousStart" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="ContinuousStart" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousSubmit" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="ContinuousSubmit" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousTest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="ContinuousTest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousUpdate" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="ContinuousUpdate" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Experimental" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="Experimental" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalBuild" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="ExperimentalBuild" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalConfigure" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="ExperimentalConfigure" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalCoverage" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="ExperimentalCoverage" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalMemCheck" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="ExperimentalMemCheck" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalStart" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="ExperimentalStart" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalSubmit" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="ExperimentalSubmit" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalTest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="ExperimentalTest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalUpdate" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="ExperimentalUpdate" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Melt" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="Melt" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Melt" RUN_TARGET_NAME="Melt">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nightly" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="Nightly" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyBuild" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="NightlyBuild" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyConfigure" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="NightlyConfigure" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyCoverage" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="NightlyCoverage" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyMemCheck" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="NightlyMemCheck" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyMemoryCheck" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="NightlyMemoryCheck" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyStart" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="NightlyStart" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlySubmit" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="NightlySubmit" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyTest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="NightlyTest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyUpdate" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="NightlyUpdate" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nfd" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="nfd" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yaml-cpp-parse" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="yaml-cpp-parse" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Melt" RUN_TARGET_NAME="yaml-cpp-parse">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yaml-cpp-read" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="yaml-cpp-read" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Melt" RUN_TARGET_NAME="yaml-cpp-read">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yaml-cpp-sandbox" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="yaml-cpp-sandbox" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Melt" RUN_TARGET_NAME="yaml-cpp-sandbox">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yaml-cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Melt" TARGET_NAME="yaml-cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.ContinuousBuild" />
+      <item itemvalue="CMake Application.ContinuousConfigure" />
+      <item itemvalue="CMake Application.ContinuousCoverage" />
+      <item itemvalue="CMake Application.ContinuousMemCheck" />
+      <item itemvalue="CMake Application.ContinuousStart" />
+      <item itemvalue="CMake Application.ContinuousSubmit" />
+      <item itemvalue="CMake Application.ContinuousTest" />
+      <item itemvalue="CMake Application.ContinuousUpdate" />
+      <item itemvalue="CMake Application.Continuous" />
+      <item itemvalue="CMake Application.ExperimentalBuild" />
+      <item itemvalue="CMake Application.ExperimentalConfigure" />
+      <item itemvalue="CMake Application.ExperimentalCoverage" />
+      <item itemvalue="CMake Application.ExperimentalMemCheck" />
+      <item itemvalue="CMake Application.ExperimentalStart" />
+      <item itemvalue="CMake Application.ExperimentalSubmit" />
+      <item itemvalue="CMake Application.ExperimentalTest" />
+      <item itemvalue="CMake Application.ExperimentalUpdate" />
+      <item itemvalue="CMake Application.Experimental" />
+      <item itemvalue="CMake Application.Melt" />
+      <item itemvalue="CMake Application.NightlyBuild" />
+      <item itemvalue="CMake Application.NightlyConfigure" />
+      <item itemvalue="CMake Application.NightlyCoverage" />
+      <item itemvalue="CMake Application.NightlyMemCheck" />
+      <item itemvalue="CMake Application.NightlyMemoryCheck" />
+      <item itemvalue="CMake Application.NightlyStart" />
+      <item itemvalue="CMake Application.NightlySubmit" />
+      <item itemvalue="CMake Application.NightlyTest" />
+      <item itemvalue="CMake Application.NightlyUpdate" />
+      <item itemvalue="CMake Application.Nightly" />
+      <item itemvalue="CMake Application.nfd" />
+      <item itemvalue="CMake Application.yaml-cpp-parse" />
+      <item itemvalue="CMake Application.yaml-cpp-read" />
+      <item itemvalue="CMake Application.yaml-cpp-sandbox" />
+      <item itemvalue="CMake Application.yaml-cpp" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad4ec411-5cce-487c-beb0-169da5a72189" name="Changes" comment="" />
+      <created>1715499313939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715499313939</updated>
+      <workItem from="1715499315623" duration="109000" />
+      <workItem from="1715500462152" duration="1502000" />
+      <workItem from="1715501990796" duration="132000" />
+      <workItem from="1715502143410" duration="178000" />
+      <workItem from="1715502343094" duration="22000" />
+      <workItem from="1715502641073" duration="31000" />
+      <workItem from="1716005958856" duration="3263000" />
+      <workItem from="1716039499474" duration="593000" />
+      <workItem from="1716092656457" duration="317000" />
+      <workItem from="1716094007203" duration="1017000" />
+      <workItem from="1716112219304" duration="693000" />
+      <workItem from="1716227048406" duration="40000" />
+      <workItem from="1716296776414" duration="1557000" />
+      <workItem from="1716369947082" duration="192000" />
+      <workItem from="1717227013239" duration="11000" />
+      <workItem from="1719656334588" duration="98000" />
+      <workItem from="1719668196563" duration="130000" />
+      <workItem from="1721046032682" duration="135000" />
+      <workItem from="1721046407375" duration="146000" />
+      <workItem from="1721547566411" duration="221000" />
+      <workItem from="1723050676108" duration="345000" />
+      <workItem from="1723136551156" duration="809000" />
+      <workItem from="1723137883711" duration="598000" />
+      <workItem from="1723210072641" duration="545000" />
+      <workItem from="1728150390605" duration="146000" />
+      <workItem from="1728150571298" duration="5000" />
+      <workItem from="1728150930757" duration="35000" />
+      <workItem from="1728152272751" duration="224000" />
+      <workItem from="1739284871074" duration="108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>

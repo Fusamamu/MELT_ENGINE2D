@@ -1,0 +1,8012 @@
+Sprites:
+  Monochrome: ../res/monochrome_tilemap_packed.png
+TileGrid:
+  TileGridData:
+    Tile width: 10
+    Tile height: 10
+  Tiles:
+    -
+      - row idx: 0
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: true
+      - row idx: 0
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: true
+      - row idx: 0
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: true
+      - row idx: 0
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: true
+      - row idx: 1
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 7
+        sprite:
+          srcRect:
+            - 240
+            - 80
+            - 16
+            - 16
+          dstRect:
+            - 672
+            - 514
+            - 32
+            - 32
+          Name: Monochrome
+          Path: ../res/monochrome_tilemap_packed.png
+        collider: false
+      - row idx: 1
+        col idx: 8
+        sprite:
+          srcRect:
+            - 240
+            - 96
+            - 16
+            - 16
+          dstRect:
+            - 672
+            - 546
+            - 32
+            - 32
+          Name: Monochrome
+          Path: ../res/monochrome_tilemap_packed.png
+        collider: false
+      - row idx: 1
+        col idx: 9
+        sprite:
+          srcRect:
+            - 240
+            - 96
+            - 16
+            - 16
+          dstRect:
+            - 672
+            - 578
+            - 32
+            - 32
+          Name: Monochrome
+          Path: ../res/monochrome_tilemap_packed.png
+        collider: false
+      - row idx: 2
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 7
+        sprite:
+          srcRect:
+            - 256
+            - 80
+            - 16
+            - 16
+          dstRect:
+            - 704
+            - 514
+            - 32
+            - 32
+          Name: Monochrome
+          Path: ../res/monochrome_tilemap_packed.png
+        collider: false
+      - row idx: 2
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 7
+        sprite:
+          srcRect:
+            - 256
+            - 80
+            - 16
+            - 16
+          dstRect:
+            - 736
+            - 514
+            - 32
+            - 32
+          Name: Monochrome
+          Path: ../res/monochrome_tilemap_packed.png
+        collider: false
+      - row idx: 3
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 7
+        sprite:
+          srcRect:
+            - 256
+            - 80
+            - 16
+            - 16
+          dstRect:
+            - 768
+            - 514
+            - 32
+            - 32
+          Name: Monochrome
+          Path: ../res/monochrome_tilemap_packed.png
+        collider: false
+      - row idx: 4
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 7
+        sprite:
+          srcRect:
+            - 256
+            - 80
+            - 16
+            - 16
+          dstRect:
+            - 800
+            - 514
+            - 32
+            - 32
+          Name: Monochrome
+          Path: ../res/monochrome_tilemap_packed.png
+        collider: false
+      - row idx: 5
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 7
+        sprite:
+          srcRect:
+            - 256
+            - 80
+            - 16
+            - 16
+          dstRect:
+            - 832
+            - 514
+            - 32
+            - 32
+          Name: Monochrome
+          Path: ../res/monochrome_tilemap_packed.png
+        collider: false
+      - row idx: 6
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 6
+        sprite:
+          srcRect:
+            - 272
+            - 32
+            - 16
+            - 16
+          dstRect:
+            - 864
+            - 482
+            - 32
+            - 32
+          Name: Monochrome
+          Path: ../res/monochrome_tilemap_packed.png
+        collider: false
+      - row idx: 7
+        col idx: 7
+        sprite:
+          srcRect:
+            - 256
+            - 80
+            - 16
+            - 16
+          dstRect:
+            - 864
+            - 514
+            - 32
+            - 32
+          Name: Monochrome
+          Path: ../res/monochrome_tilemap_packed.png
+        collider: false
+      - row idx: 7
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 7
+        sprite:
+          srcRect:
+            - 272
+            - 80
+            - 16
+            - 16
+          dstRect:
+            - 896
+            - 514
+            - 32
+            - 32
+          Name: Monochrome
+          Path: ../res/monochrome_tilemap_packed.png
+        collider: false
+      - row idx: 8
+        col idx: 8
+        sprite:
+          srcRect:
+            - 272
+            - 96
+            - 16
+            - 16
+          dstRect:
+            - 896
+            - 546
+            - 32
+            - 32
+          Name: Monochrome
+          Path: ../res/monochrome_tilemap_packed.png
+        collider: false
+      - row idx: 8
+        col idx: 9
+        sprite:
+          srcRect:
+            - 272
+            - 96
+            - 16
+            - 16
+          dstRect:
+            - 896
+            - 578
+            - 32
+            - 32
+          Name: Monochrome
+          Path: ../res/monochrome_tilemap_packed.png
+        collider: false
+      - row idx: 9
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: true
+      - row idx: 9
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: true
+      - row idx: 9
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: true
+      - row idx: 9
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: true
+    -
+      - row idx: 0
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: true
+      - row idx: 0
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: true
+      - row idx: 0
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: true
+      - row idx: 0
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: true
+      - row idx: 1
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 6
+        sprite:
+          srcRect:
+            - 80
+            - 192
+            - 16
+            - 16
+          dstRect:
+            - 704
+            - 482
+            - 32
+            - 32
+          Name: Monochrome
+          Path: ../res/monochrome_tilemap_packed.png
+        collider: false
+      - row idx: 2
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 482
+            - 32
+            - 32
+          Name: ""
+          Path: ""
+        collider: false
+      - row idx: 5
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: true
+      - row idx: 9
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: true
+      - row idx: 9
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: true
+      - row idx: 9
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: true
+    -
+      - row idx: 0
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+    -
+      - row idx: 0
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+    -
+      - row idx: 0
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 0
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 640
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 1
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 672
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 2
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 704
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 3
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 736
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 4
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 768
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 5
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 800
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 6
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 832
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 7
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 864
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 8
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 896
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 0
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 290
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 1
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 322
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 2
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 354
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 3
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 386
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 4
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 418
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 5
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 450
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 6
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 482
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 7
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 514
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 8
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 546
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false
+      - row idx: 9
+        col idx: 9
+        sprite:
+          srcRect:
+            - 0
+            - 0
+            - 0
+            - 0
+          dstRect:
+            - 928
+            - 578
+            - 32
+            - 32
+          Name: "null"
+          Path: "null"
+        collider: false

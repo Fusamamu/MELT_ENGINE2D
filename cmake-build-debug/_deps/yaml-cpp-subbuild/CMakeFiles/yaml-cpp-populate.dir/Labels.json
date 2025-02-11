@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/pengaki/Desktop/Melt/cmake-build-debug/_deps/yaml-cpp-subbuild/CMakeFiles/yaml-cpp-populate"
+		},
+		{
+			"file" : "/Users/pengaki/Desktop/Melt/cmake-build-debug/_deps/yaml-cpp-subbuild/CMakeFiles/yaml-cpp-populate.rule"
+		},
+		{
+			"file" : "/Users/pengaki/Desktop/Melt/cmake-build-debug/_deps/yaml-cpp-subbuild/CMakeFiles/yaml-cpp-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/pengaki/Desktop/Melt/cmake-build-debug/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-build.rule"
+		},
+		{
+			"file" : "/Users/pengaki/Desktop/Melt/cmake-build-debug/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/pengaki/Desktop/Melt/cmake-build-debug/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-download.rule"
+		},
+		{
+			"file" : "/Users/pengaki/Desktop/Melt/cmake-build-debug/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-install.rule"
+		},
+		{
+			"file" : "/Users/pengaki/Desktop/Melt/cmake-build-debug/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/pengaki/Desktop/Melt/cmake-build-debug/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/pengaki/Desktop/Melt/cmake-build-debug/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-test.rule"
+		},
+		{
+			"file" : "/Users/pengaki/Desktop/Melt/cmake-build-debug/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"yaml-cpp-populate"
+		],
+		"name" : "yaml-cpp-populate"
+	}
+}
